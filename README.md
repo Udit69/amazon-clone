@@ -1,4 +1,4 @@
-# amazone-clone
+# amazon-clone
 <BR>
 <H1>HERE IS MY FIRST PROJECT IN FRONTEND USING ONLY HTML AND CSS</H1>
 <BR><BR>
